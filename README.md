@@ -85,12 +85,13 @@ Kimia-Farma-Business-Analysis/
 ├── README.md
 │
 ├── SQL/
-│   ├── 01_create_clean_table.sql
-│   ├── 02_data_quality_check.sql
-│   └── 03_business_analysis.sql
+│   ├── clean_final_table.sql
+│   ├── data_quality_check.sql
+│   └── analysis.sql
 │
 ├── Dashboard/
-│   └── dashboard_screenshot.png
+│   └── dashboard_1.png
+│   └── dashboard_2.png
 │
 └── Presentation/
     └── project_presentation.pdf
